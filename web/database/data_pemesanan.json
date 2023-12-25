@@ -1,0 +1,14 @@
+{
+    "film": "Gampang Cuan",
+    "tempat": "Tasikmalaya XXI",
+    "jadwal": [
+        "senin",
+        "16:00"
+    ],
+    "tempat_duduk": [
+        "A1",
+        "C1",
+        "C5"
+    ],
+    "harga": 90000
+}

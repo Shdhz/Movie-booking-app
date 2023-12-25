@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Sijjin</title>
+</head>
+<body class="text-bg-dark ">
+    <div class="p-5">
+        <div class="container mt-5">
+            <div class="row align-items-start">
+                <div class="col-4 text-center">
+                    <img src="../assets/sijin.jpeg" class="img-fluid rounded" alt="" width="304px" height="450px">
+                    <div class="mx-auto mt-2" >
+                        <button class="btn btn-primary px-5 mt-2" onclick="pesanTiket('seat/tempat_duduk_film4.html')">Pesan Tiket</button>
+                    </div>
+                </div>
+                <div class="col-8">
+                    <h2>Sijjin</h2>
+                    <br>
+                    <p>Sijjin menceritakan tentang seorang wanita yang bernama Irma. Ia jatuh cinta pada pandangan pertama dengan Galang, sepupunya sendiri yang telah beristri dan mempunyai anak. Irma sangat menginginkan Galang, bahkan ia terobsesi untuk mendapatkan hati Galang, meski ia menyakiti istri dan anak Galang. Obsesinya itu pun mengantarkan Irma kepada seorang dukun untuk mengirim santet kepada istri Galang. Sejak saat itu, kehidupan Galang dan istrinya berubah.</p>
+                    <br>
+                    <img src="../assets/Bintang 1.png" class="img-fluid rounded" alt="" width="180px" height="60px">
+                    <br>
+
+                    <!-- start Pillih tempat & jam tayang -->
+                    <div class="float-md-start mt-2"><br>
+                        <div class="jadwal">
+                            <h3>Jadwal</h3>
+                            <div class="row mt-3">
+                                <!-- Pilihan hari -->
+                                <div class="col-3 form-check">
+                                    <input type="radio" class="btn-check" name="options-base" id="senin" autocomplete="off">
+                                    <label class="btn btn-outline-primary px-4" for="senin">Senin</label>
+                                </div>
+                                <div class="col-3 form-check">
+                                    <input type="radio" class="btn-check" name="options-base" id="rabu" autocomplete="off">
+                                    <label class="btn btn-outline-primary px-4" for="rabu">Rabu</label>
+                                </div>
+                                <div class="col-3 form-check">
+                                    <input type="radio" class="btn-check" name="options-base" id="sabtu" autocomplete="off">
+                                    <label class="btn btn-outline-primary px-4" for="sabtu">Sabtu</label>
+                                </div>
+                                <div class="col-3 form-check">
+                                    <input type="radio" class="btn-check" name="options-base" id="minggu" autocomplete="off">
+                                    <label class="btn btn-outline-primary px-4" for="minggu">Minggu</label>
+                                </div>
+                                <!-- Tambahkan pilihan hari lainnya dengan form-check yang serupa -->
+                            </div>
+                                <!-- Pilihan jam tayang -->
+                            <h3 class="mt-3">Tasikmalaya XXI</h3>
+                            <div class="row mt-3">
+                                <div class="col-2 form-check">
+                                    <input type="radio" class="btn-check" name="jam_ty" id="jam-1" autocomplete="off">
+                                    <label class="btn btn-outline-primary p-auto" for="jam-1">10:00</label>
+                                </div>
+                                <div class="col-2 form-check">
+                                    <input type="radio" class="btn-check" name="jam_ty" id="jam-2" autocomplete="off">
+                                    <label class="btn btn-outline-primary p-auto" for="jam-2">14:00</label>
+                                </div>
+                                <div class="col-2 form-check">
+                                    <input type="radio" class="btn-check" name="jam_ty" id="jam-3" autocomplete="off">
+                                    <label class="btn btn-outline-primary p-auto" for="jam-3">16:00</label>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                <!-- End Pillih tempat & jam tayang -->
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../eel.js"></script> 
+    <script src="logic_movie.js"></script>
+</body>
+</html>
+
+

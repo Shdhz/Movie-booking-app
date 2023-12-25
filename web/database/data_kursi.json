@@ -1,0 +1,282 @@
+[
+    {
+        "Kursi": "A1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A2",
+        "tersedia": false,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "A8",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B2",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "B8",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C2",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "C8",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D2",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "D8",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E2",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "E8",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F2",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "F8",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G1",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G2",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G3",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G4",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G5",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G6",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G7",
+        "tersedia": true,
+        "harga": 30000
+    },
+    {
+        "Kursi": "G8",
+        "tersedia": true,
+        "harga": 30000
+    }
+]

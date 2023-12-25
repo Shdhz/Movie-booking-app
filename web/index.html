@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Integrasikan framework boostrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- Styling file html dengan kode program CSS -->
+    <link rel="stylesheet" href="style.css">
+    <title>Booking tiket bioskop</title>
+    <style>
+      .animasi{
+        transition: transform .2s;
+        margin: 0 auto;
+      }
+      .animasi:hover{
+        transform: scale(1.1);
+      }
+    </style>
+  </head>
+  <body >
+    <div class="container text-center">
+      <!-- Section pertama Informasi film yang tersedia -->
+      <div class="row mt-5 p-auto">
+        <div class="col text-start">
+          <h3>NOW SHOWING IN CINEMAS</h3>
+        </div>
+      </div>
+      <!-- Section kedua film -->
+      <div class="row">
+        <!-- Foto 1 -->
+        <div class=" animasi col mt-4 p-auto">
+          <!-- Pada sintaks onclick terdapat fungsi yang nantinya akan dipanggil dalam kode program js -->
+          <a href="#" class="link-underline link-underline-opacity-0 text-dark" onclick="pilih_film('172 days')">
+            <img src="../assets/172days.jpeg" class="img-fluid rounded" alt="" width="304px" height="450px">
+            <h4 class="mt-2">172 Days</h4>
+          </a>
+        </div>
+        <!-- Foto 2 -->
+        <div class=" animasi col mt-4 p-auto animated fadeInUp">
+          <!-- Pada sintaks onclick terdapat fungsi yang nantinya akan dipanggil dalam kode program js -->
+          <a href="#" class="link-underline link-underline-opacity-0 text-dark" onclick="pilih_film('Gampang Cuan')">
+            <img src="../assets/gampangcuan.jpeg" class="img-fluid rounded" alt="" width="304px" height="450px">
+            <h4 class="mt-2">Gampang Cuan</h4>
+          </a>
+        </div>
+        <!-- Foto 3 -->
+        <div class="animasi col mt-4 p-auto">
+          <!-- Pada sintaks onclick terdapat fungsi yang nantinya akan dipanggil dalam kode program js -->
+          <a href="#" class="link-underline link-underline-opacity-0 text-dark" onclick="pilih_film('Rumah Iblis')">
+            <img src="/assets/rumahIblis.jpeg" class="img-fluid rounded" alt="" width="304px" height="450px">
+            <h4 class="mt-2">Rumah Iblis</h4>
+          </a>
+        </div>
+        <!-- Foto 4 -->
+        <div class="animasi col mt-4 p-auto">
+          <!-- Pada sintaks onclick terdapat fungsi yang nantinya akan dipanggil dalam kode program js -->
+          <a href="#" class="link-underline link-underline-opacity-0 text-dark" onclick="pilih_film('Sijjin')">
+            <img src="/assets/sijin.jpeg" class="img-fluid rounded" alt="" width="304px" height="450px">
+            <h4 class="mt-2 ">Sijjin</h4>
+          </a>
+        </div>
+      </div>
+      <!-- End section 2 -->
+    </div>
+    <!-- End section 1 -->
+    
+    <!-- Intergrasi cdn javascript dari boostrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <!-- masukkan eel.js untuk mengintegrasikan file html dengan library eel python -->
+    <script type="text/javascript" src="../eel.js"></script> 
+    <!-- menyambungkan file html dengan javascript -->
+    <script src="main_script.js"></script>
+  </body>
+</html>
